@@ -93,7 +93,7 @@ efiche-data-pipeline/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Bonheur773/efiche-data-pipeline.git
 cd efiche-data-pipeline
 ```
 
